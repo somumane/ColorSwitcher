@@ -1,0 +1,29 @@
+.text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Full{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button{
+    height:100px;
+    width:100px;
+    margin: 20px;
+    border: 2px solid black;
+}
+#gray{
+    background-color: gray;
+}
+#white{
+    background-color: white;
+}
+#black{
+    background-color: black;
+}
+#red{
+    background-color: red;
+}
